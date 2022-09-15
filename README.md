@@ -11,7 +11,7 @@ For each of these file I was able to get the correct test result.
 
 for example when I plotted the given data I was supposed to get a jack-o-lantern and I got this:
 
-<img width="415" alt="Screen Shot 2022-09-14 at 3 18 21 PM" src="https://user-images.githubusercontent.com/97983354/190303170-8cf77ae1-5925-4f5e-9b93-9be53d80b8a1.png">
+<img width="273" alt="Screen Shot 2022-09-14 at 3 18 21 PM" src="https://user-images.githubusercontent.com/97983354/190303425-311a959a-cc91-4586-9310-c906e299d60b.png">
 
 
 The full testing of these files is in the rbf.ipynb file that is included in this repository.
